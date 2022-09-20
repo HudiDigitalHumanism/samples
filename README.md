@@ -19,3 +19,8 @@ It is possible to develop the application containerized, with associated Docker 
 - [School](school/school.md)
 - [Tris](tris/tris.md)
 - [Family creator](family/family-creator.md)
+
+## How to complete exercise
+You can enrich the described scenario by adding features, developing with new technologies, or using the cloud.
+
+Unit tests, both at the frontend and backend level, are very welcome. We do not ask you to do all of them, but to sketch a small part of the exercise.
